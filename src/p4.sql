@@ -1,3 +1,3 @@
 UPDATE inventories
-SET price = 20.00
+SET price = 25.00
 WHERE product_id = 2;
