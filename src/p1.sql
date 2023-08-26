@@ -1,4 +1,4 @@
--- Drop tables if they exist
+-- Drop tables if they exist (Ensure no redundant table)
 DROP TABLE sales;
 DROP TABLE orders;
 DROP TABLE inventories;
